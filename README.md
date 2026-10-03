@@ -3,16 +3,16 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/salman-dev-app/Evolution-Studio">
+  <a href="https://github.com/ryoaonetsuki/Evolution-Studio">
     <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=Evolution+Studio;Android+WebView+App" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-Java%20App-FF6B6B?style=for-the-badge&logo=codesandbox&logoColor=white" />
-  <img src="https://img.shields.io/github/last-commit/salman-dev-app/Evolution-Studio?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/salman-dev-app/Evolution-Studio?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/forks/salman-dev-app/Evolution-Studio?style=for-the-badge&color=63A4FF&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/ryoaonetsuki/Evolution-Studio?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/ryoaonetsuki/Evolution-Studio?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/forks/ryoaonetsuki/Evolution-Studio?style=for-the-badge&color=63A4FF&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ Evolution Studio is a production-grade Android application built with Java & Web
 
 ```bash
 # Clone the repository
-git clone https://github.com/salman-dev-app/Evolution-Studio.git
+git clone https://github.com/ryoaonetsuki/Evolution-Studio.git
 cd Evolution-Studio
 ```
 
@@ -64,7 +64,7 @@ cd Evolution-Studio
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" style="vertical-align:middle;" /> Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-dev-app&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4" alt="Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryoaonetsuki&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4" alt="Activity Graph" width="100%">
 </div>
 
 ---
@@ -78,7 +78,7 @@ cd Evolution-Studio
   <a href="https://wa.me/8801840933137">
     <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-4ECDC4?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/salman-dev-app">
+  <a href="https://github.com/ryoaonetsuki">
     <img src="https://img.shields.io/badge/GitHub-Profile-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -100,7 +100,7 @@ cd Evolution-Studio
   <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Made+with+Passion+for+Clean+Code;Thanks+for+visiting!;Give+it+a+%E2%AD%90+if+you+like+it!" alt="Typing SVG" />
 </div>
 <div align="center">
-  <a href="https://github.com/salman-dev-app">
+  <a href="https://github.com/ryoaonetsuki">
     <img src="https://img.shields.io/badge/VISIT-MY_GITHUB_PROFILE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -109,7 +109,7 @@ cd Evolution-Studio
 
 <footer align="center">
   <p>&copy; 2024-2026 Md Salman Biswas &middot; All rights reserved</p>
-  <p>Engineered by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
+  <p>Engineered by <a href="https://github.com/ryoaonetsuki">Md Salman Biswas</a></p>
 </footer>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
